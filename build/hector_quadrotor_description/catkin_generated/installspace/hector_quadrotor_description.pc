@@ -1,0 +1,8 @@
+prefix=/home/aref/test/q3at/install
+
+Name: hector_quadrotor_description
+Description: Description of hector_quadrotor_description
+Version: 0.3.5
+Cflags: 
+Libs: -L/home/aref/test/q3at/install/lib 
+Requires: 

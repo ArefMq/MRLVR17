@@ -1,0 +1,2 @@
+gazebo_ros_sdf:gmapping:hector_gazebo_thermal_camera:hector_quadrotor_actions:hector_quadrotor_controller_gazebo:hector_quadrotor_controllers:hector_quadrotor_description:hector_quadrotor_gazebo:hector_quadrotor_gazebo_plugins:hector_quadrotor_interface:hector_quadrotor_model:hector_quadrotor_teleop:hector_uav_msgs:p3at_description:slam_gmapping
+-DCATKIN_DEVEL_PREFIX=/home/aref/test/q3at/devel -DCMAKE_INSTALL_PREFIX=/home/aref/test/q3at/install -G Unix Makefiles

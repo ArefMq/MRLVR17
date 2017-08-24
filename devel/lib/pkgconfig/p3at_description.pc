@@ -1,0 +1,8 @@
+prefix=/home/aref/test/q3at/devel
+
+Name: p3at_description
+Description: Description of p3at_description
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/aref/test/q3at/devel/lib 
+Requires: 
